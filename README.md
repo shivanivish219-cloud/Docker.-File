@@ -1,5 +1,4 @@
 # Docker.-File
-<<<<<<< HEAD
 
 A minimal static demo containing a single HTML page and supporting assets.
 
@@ -18,6 +17,3 @@ Quick preview
 Notes
 
 - Static files only — no Docker required.
-=======
-# docker file 2.0
->>>>>>> 947d2f87f8916e4cde392dccde10c52409187473
